@@ -1,5 +1,2 @@
+recursive-include dbf *
 setup.py
-dbf/__init__.py
-dbf/tests.py
-dbf/WHATSNEW
-dbf/README.md
